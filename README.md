@@ -1,2 +1,2 @@
 # Html-Project-
-Playlist Project through pure HTML
+Playlist Project through pure HTML.
